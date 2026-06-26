@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ronald Santos
+# ☠️ Ronald Santos
 
 **`Analista Red Team`**
 
@@ -7,37 +7,35 @@ Me chamo Ronald Santos, tenho 24 anos e sou natural de São Paulo. Concluí o en
 <p align="left">
     <a href="https://medium.com/@ronaldsecurit.045">
         <img 
-            alt="Medium subscribers" 
-            title="Inscreva-se no meu BLOG" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Medium" 
+            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=red&labelColor=black"
         />
     </a>
-    <a href="https://medium.com/@ronaldsecurit.045">
+    <a href="https://www.linkedin.com/in/ronald-santos-/">
         <img 
-            alt="Medium views" 
-            title="Vizualizações no Medium" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"
         />
     </a> 
     <a href="https://github.com/ronallldd?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ronallldd?color=dd2a2a&style=for-the-badge&labelColor=1a1a1a&logo=star&label=Estrelas"
         />
     </a>
     <a href="https://github.com/ronallldd?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ronallldd?color=dd2a2a&labelColor=1a1a1a&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🎯 Linguagens e Tecnologias
 
 
 <img 
@@ -111,6 +109,8 @@ Me chamo Ronald Santos, tenho 24 anos e sou natural de São Paulo. Concluí o en
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -119,14 +119,13 @@ Me chamo Ronald Santos, tenho 24 anos e sou natural de São Paulo. Concluí o en
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ronallldd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ronallldd&show_icons=true&theme=terminal&include_all_commits=true&locale=pt-br&hide_border=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronallldd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronallldd&theme=terminal&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
   />
-
 </p>
