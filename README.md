@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp10419266.jpg" alt="Hacker Mask Neon" width="100%" />
+  <img src="https://images.wallpapersden.com/image/download/anonymous-mask-neon-hacker_bWhtZ2uUmZqaraWkpJRmbmdlrWZlbWU.jpg" alt="Hacker Mask Neon" width="100%" />
 </p>
 
 # ☠️ Ronald Santos
