@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp10419266.jpg" alt="Hacker Mask Neon" width="100%" />
+</p>
+
 # ☠️ Ronald Santos
 
 **`Analista Red Team`**
