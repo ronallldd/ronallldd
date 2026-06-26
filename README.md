@@ -119,13 +119,13 @@ Me chamo Ronald Santos, tenho 24 anos e sou natural de São Paulo. Concluí o en
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ronallldd&show_icons=true&theme=terminal&include_all_commits=true&locale=pt-br&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=ronallldd&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronallldd&theme=terminal&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronallldd&bg_color=0d1117&text_color=ffffff&icon_color=ff0000&title_color=ff0000&border_color=ff0000&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
