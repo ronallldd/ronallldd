@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ronallldd/ronallldd/blob/main/1767745101030.jpg" alt="Linkedin" width="45%" />
+  <img src="https://github.com/ronallldd/ronallldd/blob/main/1767745101030.jpg" alt="Linkedin" width="100%" />
 </p>
 
 # ☠️ Ronald Santos
