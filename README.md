@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronallldd/ronallldd/main/2308527.jpg" alt="Hacker Mask Neon" width="100%" />
+  <img src="https://raw.githubusercontent.com/ronallldd/ronallldd/main/2308527.jpg" alt="Hacker Mask Neon" width="50%" />
 </p>
 
 # ☠️ Ronald Santos
