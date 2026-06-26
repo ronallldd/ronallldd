@@ -6,7 +6,7 @@
 
 **`Analista Red Team`**
 
-Me chamo Ronald Santos, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Defesa Cibernetica na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu recente blog no Medium "[Ronald Securit](https://medium.com/@ronaldsecurit.045)", onde ensino a criar projetos web e executar alguns pentests, e também através do Linkedin, com o perfil chamado "[Ronald Santos](https://www.linkedin.com/in/ronald-santos-/)".
+Me chamo Ronald Santos, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio e estou atualmente cursando faculdade, com o curso técnico em informática e algumas certificaçôes de peso como CWSE,CAPT,CRTMO,CCEP,CRTA Atualmente, estou cursando Defesa Cibernetica na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu recente blog no Medium "[Ronald Securit](https://medium.com/@ronaldsecurit.045)", onde ensino a criar projetos web e executar alguns pentests, e também através do Linkedin, com o perfil chamado "[Ronald Santos](https://www.linkedin.com/in/ronald-santos-/)".
 
 <p align="left">
     <a href="https://medium.com/@ronaldsecurit.045">
